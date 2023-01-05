@@ -4,7 +4,7 @@
 		"details": [
 			{
 				"appID": "23STPLYTWS.com.saritasa.enterprise.firearm",
-				"paths": [ "*"]
+				"paths": ["*"]
 			}
 		]
 	}
