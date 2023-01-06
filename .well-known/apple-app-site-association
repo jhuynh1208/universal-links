@@ -1,11 +1,9 @@
 {
 	"applinks": {
 		"apps": [],
-		"details": [
-			{
-				"appID": "23STPLYTWS.com.saritasa.enterprise.firearm",
-				"paths": ["*"]
-			}
-		]
+		"details": [{
+			"appID": "23STPLYTWS.com.saritasa.enterprise.firearm",
+			"paths": ["*"]
+		}]
 	}
 }
